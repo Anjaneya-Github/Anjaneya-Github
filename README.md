@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Agentic+AI+Systems;RAG+%7C+LLM+Applications;AutoGen+%7C+MCP+Workflows;Enterprise+AI+Integration" />
 </h1>
 
-
 ---
 
 # 👋 Hi, I'm Anjaneya
