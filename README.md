@@ -130,3 +130,17 @@
 </p>
 
 ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Anjaneya-Github/Anjaneya-Github/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚡ Vision
+
+<p align="center">
+  <b>Building intelligent AI systems where agents seamlessly interact with enterprise platforms 🚀</b>
+</p>
