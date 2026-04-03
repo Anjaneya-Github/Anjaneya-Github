@@ -1,6 +1,28 @@
+<!-- 🔥 Main Banner -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ff512f,25:dd2476,50:7f00ff,75:00c6ff,100:00f260&text=Anjaneya%20Sahu&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Agentic%20AI%20%7C%20RAG%20%7C%20AutoGen%20%7C%20Enterprise%20AI&descAlignY=65" />
 </p>
+
+<!-- 🤖 AI Agent Layer -->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,docker,aws" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AutoGen-Agent-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-Orchestrator-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-System-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ADK-Agent%20Toolkit-orange?style=for-the-badge" />
+</p>
+
+<!-- 🔥 Animated Typing -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Agentic+AI+Systems;RAG+%7C+LLM+Applications;AutoGen+%7C+MCP+Workflows;Enterprise+AI+Integration" />
+</h1>
+
 
 ---
 
