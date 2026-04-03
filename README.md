@@ -2,7 +2,7 @@
 <!-- 🔥 Custom AI Banner (Upgraded Colors) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B0F19,25:0f2024,50:00F7FF,60:7F00FF,100:FF00XX&text=Anjaneya%20Sahu&fontSize=44&fontAlignY=35&desc=GenAI%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20Enterprise%20AI&descAlignY=62&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B0F19,25:0f2024,50:00F5FF,60:7F00FF,100:FF00XX&text=Anjaneya%20Sahu&fontSize=44&fontAlignY=35&desc=GenAI%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20Enterprise%20AI&descAlignY=62&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- 🤖 AI Agent Layer (Clean Icons) -->
@@ -52,8 +52,11 @@
     <img src="https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 
-</p>
+  <a href="https://www.kaggle.com/anjaneyamlexp">
+    <img src="https://img.shields.io/badge/Kaggle-Anjaneya%20ML%20Exp-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
 
+</p>
 <p align="center">
 💬 Open to opportunities in <b>GenAI • Agentic AI • RAG • Enterprise AI Systems</b>  
 </p>
