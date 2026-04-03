@@ -1,3 +1,16 @@
+<!-- 🔥 Minimal AI Banner -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0B0F19,25:0f2027,50:00F7FF,75:7F00FF,100:FF00FF&text=Anjaneya%20Sahu&fontSize=42&fontAlignY=50&fontColor=ffffff" />
+</p>
+
+<!-- ✨ Clean AI Typing -->
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Agentic+AI+%7C+RAG+%7C+AutoGen+%7C+MCP;LLM+Applications+%7C+Enterprise+Integration" />
+</h3>
+
+---
 <!-- 🔥 Custom AI Banner (Upgraded Colors) -->
 
 <p align="center">
