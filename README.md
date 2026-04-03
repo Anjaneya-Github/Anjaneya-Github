@@ -1,13 +1,22 @@
-<!-- 🔥 Custom AI Banner -->
+<!-- 🔥 Custom AI Banner (Upgraded Colors) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,25:203a43,50:2c5364,75:00c6ff,100:0072ff&text=Anjaneya%20Sahu&fontSize=42&fontAlignY=35&desc=GenAI%20Engineer%20%7C%20RAG%20%7C%20Multi-Agent%20Systems%20%7C%20Enterprise%20AI&descAlignY=60&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B0F19,25:0f2027,50:00F7FF,75:7F00FF,100:FF00FF&text=Anjaneya%20Sahu&fontSize=44&fontAlignY=35&desc=GenAI%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20Enterprise%20AI&descAlignY=62&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- 🤖 AI Agent Layer (Clean Icons) -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖%20AutoGen-Agent-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/🧠%20MCP-Orchestrator-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/📡%20RAG-System-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/⚙️%20ADK-Toolkit-orange?style=flat-square" />
 </p>
 
 <!-- 🔥 Animated Typing Header -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=GenAI+Engineer;RAG+Systems+%7C+Multi-Agent+Architectures;LLM+Applications+at+Scale;AI+%2B+Enterprise+Integration" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=900&lines=🤖+Agentic+AI+Systems;🧠+RAG+%7C+LLM+Applications;⚙️+AutoGen+%7C+MCP+Workflows;🚀+Enterprise+AI+Integration" />
 </h1>
 
 ---
