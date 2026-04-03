@@ -25,7 +25,6 @@
 💡 <b>GenAI Engineer specializing in Agentic AI, RAG & LLM Systems</b><br>
 🔗 Enterprise AI Integration • APIs • Messaging • Distributed Systems
 </p>
----
 
 ## 📫 Let's Connect
 
