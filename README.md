@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:000000,30:0f2027,50:00F7FF,70:7F00FF,90:FF00FF&text=Anjaneya%20Sahu&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Agentic%20AI%20%7C%20RAG%20%7C%20AutoGen%20%7C%20MCP%20%7C%20Enterprise%20Integration&descAlignY=65" />
+  <img src="https://raw.githubusercontent.com/Anjaneya-Github/Anjaneya-Github/main/assets/banner.svg" width="100%" />
 </p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Agentic+AI+Systems;RAG+%7C+LLM+Applications;AutoGen+%7C+MCP+Workflows;Enterprise+AI+Integration" />
-</h1>
 
 ---
 
