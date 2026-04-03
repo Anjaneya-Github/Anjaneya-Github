@@ -1,13 +1,13 @@
 <!-- 🔥 Custom AI Banner -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,25:203a43,50:2c5364,75:00c6ff,100:0072ff&text=Anjaneya%20Sahu&fontSize=42&fontAlignY=35&desc=GenAI%20Engineer%20%7C%20RAG%20%7C%20Multi-Agent%20Systems%20%7C%20Enterprise%20AI&descAlignY=60&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,25:203a43,50:2c5364,75:00c6ff,100:0072ff&text=Anjaneya%20Sahu&fontSize=42&fontAlignY=35&desc=GenAI%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20LLM%20Systems&descAlignY=60&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- 🔥 Animated Typing Header -->
+<!-- 🔥 Animated Typing -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=GenAI+Engineer;RAG+Systems+%7C+Multi-Agent+Architectures;LLM+Applications+at+Scale;AI+%2B+Enterprise+Integration" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=GenAI+Engineer;Agentic+AI+Systems;RAG+%7C+LLM+Applications;Enterprise+AI+Integration" />
 </h1>
 
 ---
@@ -16,56 +16,64 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/GenAI-Engineer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic-AI-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-System-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Multi--Agent-Systems-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Enterprise-AI-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM-Applications-black?style=for-the-badge" />
 </p>
 
 <p align="center">
-💡 <b>GenAI & Enterprise Integration Engineer</b><br>
-🔗 AI • APIs • Messaging (MFT, Solace) • Distributed Systems
+💡 <b>GenAI Engineer specializing in Agentic AI, RAG & LLM Systems</b><br>
+🔗 Enterprise AI Integration • APIs • Messaging • Distributed Systems
 </p>
 
 ---
 
 ## 🧠 What I Do
 
-* 🤖 Build **LLM-powered applications (RAG, AI copilots)**
-* 🧩 Design **Multi-Agent Systems (agentic workflows & orchestration)**
-* 🔗 Integrate **enterprise systems (APIs, Messaging, MFT) with AI**
-* ⚡ Develop **scalable, production-grade GenAI systems**
+* 🤖 Build **LLM-powered systems (RAG, copilots, AI assistants)**
+* 🧩 Design **Agentic AI workflows (AutoGen, MCP, CrewAI)**
+* 🔗 Integrate **AI with APIs, messaging systems & enterprise platforms**
+* ⚡ Develop **production-grade, scalable GenAI applications**
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
-### 🤖 Enterprise RAG Assistant
+### 🤖 MCP + AutoGen + Notion Integration
 
-* AI chatbot for **enterprise / SAP documents**
-* Uses **LLM + vector database for contextual intelligence**
-* Focus: **real-world enterprise use cases**
-
----
-
-### 🧠 Multi-Agent Workflow System
-
-* Planner → Researcher → Executor architecture
-* Demonstrates **agent collaboration & reasoning systems**
-* Built using **LangGraph-style orchestration**
+* Built **Agentic AI system using MCP + AutoGen**
+* Integrates with **Notion for knowledge workflows**
+* Demonstrates **tool-using AI agents & real-world automation**
 
 ---
 
-### 🔗 AI + Enterprise Integration Platform
+### 📊 AI Data Analyzer (AutoGen GPT System)
 
-* Connects **APIs & messaging systems → AI decision engines**
-* Event-driven, real-time architecture
-* Combines **integration expertise with GenAI**
+* Multi-agent system for **data analysis & insights generation**
+* Uses **LLM reasoning + tool execution**
+* Example: dataset → insights → recommendations
+
+---
+
+### 🧠 Enterprise RAG System
+
+* Built using **LLM + Pinecone vector database**
+* Context-aware responses for enterprise knowledge
+* Focus on **scalable RAG architecture**
+
+---
+
+### 🔗 Agentic AI in Enterprise Integration
+
+* Applied **Agentic AI in Solace Agent Mesh & Axway MFT workflows**
+* AI-driven orchestration over **messaging & file transfer systems**
+* Real-time, event-driven AI decisioning
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🤖 GenAI / LLM Stack
+### 🤖 GenAI / Agentic AI
 
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge" />
@@ -98,10 +106,10 @@
 ### 🔗 Enterprise Integration
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SAP-Integration-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Solace-Messaging-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Solace-Agent%20Mesh-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Axway-MFT-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/APIs-Microservices-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kong-API%20Gateway-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APIs-Microservices-green?style=for-the-badge" />
 </p>
 
 ---
@@ -122,17 +130,3 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Anjaneya-Github/Anjaneya-Github/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## ⚡ Vision
-
-<p align="center">
-  <b>Building intelligent AI systems where agents seamlessly interact with enterprise platforms 🚀</b>
-</p>
