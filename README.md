@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=240&color=0:020024,50:090979,100:00d4ff&text=Anjaneya%20Sahu&fontSize=42&fontColor=00F7FF&animation=fadeIn&desc=Building%20Agentic%20AI%20Systems%20%7C%20RAG%20%7C%20LLMs&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ff512f,25:dd2476,50:7f00ff,75:00c6ff,100:00f260&text=Anjaneya%20Sahu&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Agentic%20AI%20%7C%20RAG%20%7C%20AutoGen%20%7C%20Enterprise%20AI&descAlignY=65" />
 </p>
-
 
 ---
 
