@@ -2,7 +2,7 @@
 <!-- 🔥 Custom AI Banner (Upgraded Colors) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B0F19,25:0f2024,50:00F5FF,60:7F00FF,100:FF00XX&text=Anjaneya%20Sahu&fontSize=44&fontAlignY=35&desc=GenAI%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20Enterprise%20AI&descAlignY=62&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B0F19,25:0f2024,30:00F5FF,60:5F00FF,85:FF00XX&text=Anjaneya%20Sahu&fontSize=44&fontAlignY=35&desc=GenAI%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20Enterprise%20AI&descAlignY=62&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- 🤖 AI Agent Layer (Clean Icons) -->
@@ -66,7 +66,6 @@
 </p>
 
 ---
----
 
 ## 🧠 What I Do
 
@@ -116,11 +115,13 @@
 ### 🤖 GenAI / Agentic AI
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-LLM%20Framework-black?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/LangGraph-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CrewAI-Multi--Agent-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AutoGen-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CrewAI-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MCP-Agent%20Protocol-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20ADK-Agent%20Toolkit-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
 ---
@@ -138,10 +139,19 @@
 ### ⚙️ Backend & Systems
 
 <p align="center">
+  <!-- skillicons for your existing stack -->
   <img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws" />
 </p>
 
----
+<p align="center">
+  <!-- shields.io for AI/ML stack -->
+  <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+</p>
+
 
 ### 🔗 Enterprise Integration
 
