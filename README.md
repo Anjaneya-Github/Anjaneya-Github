@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anjaneya-Github/Anjaneya-Github/main/assets/banner.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Anjaneya-Github/Anjaneya-Github/assets/banner.svg" width="100%" />
 </p>
 
 ---
