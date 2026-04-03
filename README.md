@@ -1,20 +1,8 @@
-<!-- 🔥 Minimal AI Banner -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0B0F19,25:0f2027,50:00F7FF,75:7F00FF,100:FF00FF&text=Anjaneya%20Sahu&fontSize=42&fontAlignY=50&fontColor=ffffff" />
-</p>
-
-<!-- ✨ Clean AI Typing -->
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Agentic+AI+%7C+RAG+%7C+AutoGen+%7C+MCP;LLM+Applications+%7C+Enterprise+Integration" />
-</h3>
-
----
 <!-- 🔥 Custom AI Banner (Upgraded Colors) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B0F19,25:0f2027,50:00F7FF,75:7F00FF,100:FF00FF&text=Anjaneya%20Sahu&fontSize=44&fontAlignY=35&desc=GenAI%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20Enterprise%20AI&descAlignY=62&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B0F19,25:0f2024,50:00F7FF,60:7F00FF,100:FF00XX&text=Anjaneya%20Sahu&fontSize=44&fontAlignY=35&desc=GenAI%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20Enterprise%20AI&descAlignY=62&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- 🤖 AI Agent Layer (Clean Icons) -->
