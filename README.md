@@ -2,7 +2,7 @@
 <!-- 🔥 Custom AI Banner (Upgraded Colors) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B0F19,25:0f2024,45:00C6D7,75:5F00D7,100:C800E0&text=Anjaneya%20Sahu&fontSize=44&fontAlignY=35&desc=GenAI%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG&descAlignY=62&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B0F19,25:0f2024,45:00C6D7,75:5F00D7,100:C800E0&text=Anjaneya%20Sahu&fontSize=44&fontAlignY=35&desc=GenAI%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20Enterprise%20AI&descAlignY=62&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -17,8 +17,8 @@
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
-  <img src="https://img.shields.io/badge/crewai-FF4B4B?style=for-the-badge&logo=crewai&logoColor=white" />
-  <img src="https://img.shields.io/badge/langgraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=crewai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
 </p>
 
 <!-- 🤖 AI Agent Layer (Clean Icons) -->
