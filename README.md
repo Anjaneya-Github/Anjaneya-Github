@@ -1,13 +1,13 @@
-<!-- 🔥 Custom AI Banner -->
+<!-- 🔥 Ultra AI Neon Banner -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,25:203a43,50:2c5364,75:00c6ff,100:0072ff&text=Anjaneya%20Sahu&fontSize=42&fontAlignY=35&desc=GenAI%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20LLM%20Systems&descAlignY=60&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:000000,20:0f2027,40:00F7FF,60:7F00FF,80:FF00FF,100:00F7FF&text=Anjaneya%20Sahu&fontSize=44&fontColor=ffffff&animation=twinkling&desc=Agentic%20AI%20%7C%20RAG%20%7C%20AutoGen%20%7C%20MCP%20%7C%20Enterprise%20Integration&descAlignY=65" />
 </p>
 
 <!-- 🔥 Animated Typing -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=GenAI+Engineer;Agentic+AI+Systems;RAG+%7C+LLM+Applications;Enterprise+AI+Integration" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Agentic+AI+Systems;RAG+%7C+LLM+Applications;AutoGen+%7C+MCP+Workflows;Enterprise+AI+Integration" />
 </h1>
 
 ---
