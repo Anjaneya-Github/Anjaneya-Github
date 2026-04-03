@@ -25,7 +25,35 @@
 💡 <b>GenAI Engineer specializing in Agentic AI, RAG & LLM Systems</b><br>
 🔗 Enterprise AI Integration • APIs • Messaging • Distributed Systems
 </p>
+---
 
+## 📫 Let's Connect
+
+<p align="center">
+
+  <a href="mailto:anjaneyasahu26@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-anjaneyasahu26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/anjaneya-sahu-79074889/">
+    <img src="https://img.shields.io/badge/LinkedIn-Anjaneya%20Sahu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://medium.com/@sahu.anjaneya">
+    <img src="https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+
+</p>
+
+<p align="center">
+💬 Open to opportunities in <b>GenAI • Agentic AI • RAG • Enterprise AI Systems</b>  
+</p>
+
+<p align="center">
+⚡ Let’s build intelligent AI systems that scale 🚀
+</p>
+
+---
 ---
 
 ## 🧠 What I Do
