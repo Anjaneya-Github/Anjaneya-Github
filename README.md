@@ -17,7 +17,7 @@
 
 <p align="center">
 💡 <b>GenAI & Enterprise Integration Engineer</b><br>
-🔗 AI + SAP • APIs • Messaging (Kafka, Solace)
+🔗 AI  • APIs • Messaging (MFT, Solace)
 </p>
 
 ---
@@ -26,7 +26,7 @@
 
 * 🤖 Build **LLM-powered applications (RAG, AI copilots)**
 * 🧩 Design **Multi-Agent Systems (LangGraph-style workflows)**
-* 🔗 Integrate **enterprise systems (SAP, APIs, Messaging) with AI**
+* 🔗 Integrate **enterprise systems (APIs, Messaging) with AI**
 * ⚡ Create **scalable, production-ready GenAI systems**
 
 ---
@@ -57,7 +57,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,fastapi,docker,kafka" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,solace,langraph,pinecone,aws,axway,autogen,adk,crewai,mcp" />
 </p>
 
 <p align="center">
