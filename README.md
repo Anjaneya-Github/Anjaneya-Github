@@ -182,16 +182,14 @@
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Anjaneya-Github&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
-    height="180em"
-  />
+# Hi there 👋
 
-  <img 
-    src="https://streak-stats.demolab.com?user=Anjaneya-Github&theme=tokyonight&hide_border=true" 
-    height="180em"
-  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anjaneya-Github&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Anjaneya-Github&theme=tokyonight" />
 </p>
 
 ---
