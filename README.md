@@ -183,8 +183,9 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anjaneya-Github&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjaneya-Github&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anjaneya-Github&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180em" />
+  
+  <img src="https://streak-stats.demolab.com?user=Anjaneya-Github&theme=tokyonight" height="180em" />
 </p>
 
 ---
