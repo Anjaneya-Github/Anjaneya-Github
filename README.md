@@ -184,8 +184,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anjaneya-Github&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anjaneya-Github&theme=tokyonight)
-
 ---
 
 ## 📈 Contribution Activity
