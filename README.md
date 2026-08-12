@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Anjaneya%20Sahu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://medium.com/@sahu.anjaneya">
+  <a href="https://medium.com/@anjaneya_aiagent">
     <img src="https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 
